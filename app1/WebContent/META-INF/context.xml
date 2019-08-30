@@ -10,8 +10,8 @@
           maxWait="10000"
           initialSize="10"
           jmxEnabled="true"
-          username="ib"
-          password="ib!"
+          username="root"
+          password="root"
           driverClassName="com.mysql.jdbc.Driver"
-          url="jdbc:mysql://mysql:3306/jdbcpooldb?serverTimezone=UTC"/>
+          url="jdbc:mysql://localhost:3306/jdbcpooldb"/>
 </Context>
